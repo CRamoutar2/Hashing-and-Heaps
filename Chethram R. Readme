@@ -1,0 +1,9 @@
+Chethram R.
+
+Problems I came across:
+
+With part 1: My problem was identifying what was the entire task asked of the students. Once I was able to, I created the additional functions and adjustments as I needed to. Those functions being mostly getters. I initially created linear probing incorrectly, so finding my issue there was a bit time consuming.
+
+With part 2: My problem was seeing how to implement the hashing arithmetic for the double hashing. Once I figured out it would be a good idea to create a secondary function and utilize that, the task became simpler.
+
+With part 3 : I had a hard time figuring out how to progress after making the entire file lowercase. I thought about the Incorrect/Correct portion of the task conceptually, however  the coding aspect of it was more challenging than I expected. I ended up skipping over that and continuing over to the spell check cases.
